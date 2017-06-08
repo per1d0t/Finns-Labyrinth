@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finn's Maze", "Assembly-CSharp-firstpass.csproj", "{D4565B4A-F6C9-9379-15E8-B680338EB5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finn's Maze", "Assembly-CSharp.csproj", "{57F4DEFE-E19E-7836-E60E-7622C28078A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finn's Maze", "Assembly-CSharp-Editor.csproj", "{5D086478-16A0-528E-9949-3F9E82830DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4565B4A-F6C9-9379-15E8-B680338EB5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4565B4A-F6C9-9379-15E8-B680338EB5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4565B4A-F6C9-9379-15E8-B680338EB5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4565B4A-F6C9-9379-15E8-B680338EB5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F4DEFE-E19E-7836-E60E-7622C28078A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F4DEFE-E19E-7836-E60E-7622C28078A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F4DEFE-E19E-7836-E60E-7622C28078A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F4DEFE-E19E-7836-E60E-7622C28078A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D086478-16A0-528E-9949-3F9E82830DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D086478-16A0-528E-9949-3F9E82830DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D086478-16A0-528E-9949-3F9E82830DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D086478-16A0-528E-9949-3F9E82830DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
