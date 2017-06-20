@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Extra\DisableMouse.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WhiteRoom\IntroSound.cs">
     <Files>
       <File FileName="Assets\Scripts\WhiteRoom\PitfallScript.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\WhiteRoom\BeginOutro.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Extra\DisableMouse.cs" Line="12" Column="26" />
+      <File FileName="Assets\Scripts\Extra\DisableMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WhiteRoom\IntroSound.cs" Line="9" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
